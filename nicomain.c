@@ -1,7 +1,7 @@
 #include <stdio.h>
 	
 int main() {
-	traduction(45);
+	traduction(478);
 	return 0;
 }
 
